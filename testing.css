@@ -3,18 +3,7 @@
       overflow: hidden;
       background: pink;      
       font-family: arial;
-      font-size: 13px;
+      font-size: 8 px;
       font-weight: bold;
     }
-    #controls-wrapper {
-      position: absolute;
-      z-index: 2;
-      top: 0;
-      width: 100%;
-      padding: 10px;
-    }
-    #controls-wrapper > select, button {
-      background-color: #000;
-      color: #fff;
-      border: 1px solid #545454;
-    }
+   
